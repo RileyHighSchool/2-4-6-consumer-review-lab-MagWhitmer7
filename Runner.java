@@ -20,6 +20,6 @@ public class Runner {
 		// System.out.println(Review.totalSentiment("lucas.txt"));
 		// System.out.println(Review.starRating("lucas.txt"));
 
-		System.out.println(Review.fakeReview("SimpleReview.txt"));
+		System.out.println(Review.textlingo("SimpleReview.txt"));
     }
 }

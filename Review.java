@@ -252,10 +252,4 @@ public class Review {
       return randomNegativeAdj();
     }
   }
-  public static textLingo(String fileName)
-  {
-    // text to String
-    
-  }
-
 }
